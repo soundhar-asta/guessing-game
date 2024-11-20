@@ -1,0 +1,15 @@
+/Users/soundharkk/Desktop/Guessing game/guessinggame/bin/Debug/net9.0/guessinggame
+/Users/soundharkk/Desktop/Guessing game/guessinggame/bin/Debug/net9.0/guessinggame.deps.json
+/Users/soundharkk/Desktop/Guessing game/guessinggame/bin/Debug/net9.0/guessinggame.runtimeconfig.json
+/Users/soundharkk/Desktop/Guessing game/guessinggame/bin/Debug/net9.0/guessinggame.dll
+/Users/soundharkk/Desktop/Guessing game/guessinggame/bin/Debug/net9.0/guessinggame.pdb
+/Users/soundharkk/Desktop/Guessing game/guessinggame/obj/Debug/net9.0/guessinggame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soundharkk/Desktop/Guessing game/guessinggame/obj/Debug/net9.0/guessinggame.AssemblyInfoInputs.cache
+/Users/soundharkk/Desktop/Guessing game/guessinggame/obj/Debug/net9.0/guessinggame.AssemblyInfo.cs
+/Users/soundharkk/Desktop/Guessing game/guessinggame/obj/Debug/net9.0/guessinggame.csproj.CoreCompileInputs.cache
+/Users/soundharkk/Desktop/Guessing game/guessinggame/obj/Debug/net9.0/guessinggame.sourcelink.json
+/Users/soundharkk/Desktop/Guessing game/guessinggame/obj/Debug/net9.0/guessinggame.dll
+/Users/soundharkk/Desktop/Guessing game/guessinggame/obj/Debug/net9.0/refint/guessinggame.dll
+/Users/soundharkk/Desktop/Guessing game/guessinggame/obj/Debug/net9.0/guessinggame.pdb
+/Users/soundharkk/Desktop/Guessing game/guessinggame/obj/Debug/net9.0/guessinggame.genruntimeconfig.cache
+/Users/soundharkk/Desktop/Guessing game/guessinggame/obj/Debug/net9.0/ref/guessinggame.dll
